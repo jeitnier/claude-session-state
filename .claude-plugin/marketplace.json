@@ -11,8 +11,8 @@
     {
       "name": "session-state",
       "source": {
-        "source": "github",
-        "repo": "jeitnier/claude-session-state"
+        "source": "url",
+        "url": "https://github.com/jeitnier/claude-session-state.git"
       },
       "description": "Auto-persist session context across Claude Code sessions",
       "version": "1.0.0"
