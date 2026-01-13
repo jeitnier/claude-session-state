@@ -8,6 +8,5 @@
   "homepage": "https://github.com/jeitnier/claude-session-state",
   "repository": "https://github.com/jeitnier/claude-session-state",
   "license": "MIT",
-  "keywords": ["session", "state", "context", "persistence", "productivity"],
-  "category": "productivity"
+  "keywords": ["session", "state", "context", "persistence", "productivity"]
 }
