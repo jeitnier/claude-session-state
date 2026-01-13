@@ -1,0 +1,18 @@
+{
+  "name": "jeitnier-session-state",
+  "owner": {
+    "name": "Jared Eitnier",
+    "email": "jared@jaredeitnier.com"
+  },
+  "metadata": {
+    "description": "Session state management for Claude Code"
+  },
+  "plugins": [
+    {
+      "name": "session-state",
+      "source": ".",
+      "description": "Auto-persist session context across Claude Code sessions",
+      "version": "1.0.0"
+    }
+  ]
+}
