@@ -10,7 +10,10 @@
   "plugins": [
     {
       "name": "session-state",
-      "source": "https://github.com/jeitnier/claude-session-state",
+      "source": {
+        "source": "github",
+        "repo": "jeitnier/claude-session-state"
+      },
       "description": "Auto-persist session context across Claude Code sessions",
       "version": "1.0.0"
     }
