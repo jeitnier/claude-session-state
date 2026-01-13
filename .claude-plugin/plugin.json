@@ -1,0 +1,13 @@
+{
+  "name": "session-state",
+  "description": "Auto-persist session context across Claude Code sessions with hooks and custom commands",
+  "version": "1.0.0",
+  "author": {
+    "name": "Jared Eitnier"
+  },
+  "homepage": "https://github.com/jeitnier/claude-session-state",
+  "repository": "https://github.com/jeitnier/claude-session-state",
+  "license": "MIT",
+  "keywords": ["session", "state", "context", "persistence", "productivity"],
+  "category": "productivity"
+}
